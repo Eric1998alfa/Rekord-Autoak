@@ -48,6 +48,7 @@ public class Inicio extends JFrame implements ActionListener, ListSelectionListe
 	ObjectInputStream ois;
 	
 	// He modificado el INICIO
+	// Testeo
 	
 	/**
 	 * Crea frame de la clase.
